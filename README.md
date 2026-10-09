@@ -6,5 +6,5 @@ Selama studi, saya mengasah kemampuan dengan mengerjakan berbagai analisis denga
 
 Pada waktku luang, saya menjelajahi teknik analisis data baru dan mencari peluang untuk memperluas pengetahuan dan keterampilan saya dalam mengolah data. Baik bekerja dalam tim ataupun mandiri, saya termotivasi oleh kesan dalam menemukan wawasan baru dan penggunaan berbagai metode dalam memecahkan masalah yang komplek.
 
-CV saya dapat diakses pada [pdf](Chika Marsella_Data Analyst_CV.pdf)
+CV saya dapat diakses pada [pdf](<Chika Marsella_Data Analyst_CV.pdf>)
 
