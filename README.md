@@ -8,3 +8,6 @@ Pada waktku luang, saya menjelajahi teknik analisis data baru dan mencari peluan
 
 CV saya dapat diakses pada [pdf](<Chika Marsella_Data Analyst_CV.pdf>)
 
+## Daftar Isi
+* [Tentang Saya](<# Tentang Saya>) 
+
